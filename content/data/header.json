@@ -1,17 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/752101206535053942.gif",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Intrduction",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,16 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
+            "label": "Video",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,58 +30,47 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Social Media",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "type": "Link",
+                    "label": "Instagram",
+                    "altText": "Instagram",
+                    "url": "/https://www.instagram.com/t4ni.xxhehu/?__pwa=1",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "type": "Link",
+                    "label": "YouTube",
+                    "altText": "YouTube",
+                    "url": "/https://www.youtube.com/@MusicXTanishk",
+                    "showIcon": true,
+                    "icon": "youtube",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "label": "Spotify",
+                    "url": "/https://open.spotify.com/artist/5oFVboL4gRXvW0GTbNVFse?si=dTSPc6vCRgCflpLKs4O_Mg",
+                    "icon": "play",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "showIcon": true
                 }
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
-        }
-    ],
-    "variant": "logo-left-primary-nav-centered",
+    "secondaryLinks": [],
+    "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }

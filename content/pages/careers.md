@@ -1,29 +1,25 @@
 ---
-title: Careers
+title: MUSIC
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: TANISHK SHARMA
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: Musical Artist
+    text: "<div style=\"text-align: center\">![](https://preview--musicxtanishk-74b6c.stackbit.dev/images/WhatsApp%20Image%202025-02-20%20at%2021.57.44_50a2dfa2.jpg)</div>\n\nI am **Tanishk Sharma**, a storyteller who weaves emotions into melodies and poetry into rhythm. My music is more than sound—it’s a feeling, a journey, a reflection of life’s deepest emotions.\n\nEach song I sing carries whispers of love, longing, and hope. My shayari isn’t just written—it breathes, it connects, it speaks to the soul.\n\nThrough every note and every verse, I strive to create something timeless—something that lingers in hearts long after the music fades.\n\nTo those who listen, to those who feel—**you are my inspiration**. Music and poetry are bridges, uniting us through shared emotions. Let’s embrace the rhythm, let’s live the words, and above all, let’s celebrate love—the one language that truly binds us all.\n\n\U0001F3B6 **Let the music flow, let the poetry breathe.**\n"
     actions:
-      - label: See open positions
+      - label: ABOUT ME
         url: /
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
-    colors: bg-neutral-fg-dark
+        altText: ''
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -31,9 +27,11 @@ sections:
           - pl-4
           - pb-40
           - pr-4
-        alignItems: center
+        alignItems: flex-end
         flexDirection: row-reverse
         justifyContent: center
+        margin:
+          - mt-0
       text:
         textAlign: center
       subtitle:
@@ -48,7 +46,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: ''
       color: text-dark
       styles:
         self:
