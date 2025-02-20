@@ -37,7 +37,7 @@ bottomSections:
           allowfullscreen></iframe>
         image:
           type: ImageBlock
-          url: /images/Screenshot 2025-01-30 004135.png
+          url: /images/Screenshot 2025-02-06 122732.png
           altText: Featured item
           styles:
             self:
