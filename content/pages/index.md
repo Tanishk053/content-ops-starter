@@ -168,33 +168,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: ''
-    images:
-      - altText: Empathy logo
-        type: ImageBlock
-      - url: /images/Screenshot 2025-02-20 220039.png
-        altText: Wellster logo
-        type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
-      - url: /images/Screenshot 2025-02-20 235131.png
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - url: /images/Screenshot 2025-02-20 235044.png
-        altText: ''
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: CarouselSection
     subtitle: ABOUT ME
     items:
@@ -237,6 +210,33 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: ''
+    images:
+      - altText: Empathy logo
+        type: ImageBlock
+      - url: /images/Screenshot 2025-02-20 220039.png
+        altText: Wellster logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+      - altText: Telus logo
+        type: ImageBlock
+      - url: /images/Screenshot 2025-02-20 235131.png
+        altText: Contentful logo
+        type: ImageBlock
+      - altText: Sanity logo
+        type: ImageBlock
+      - url: /images/Screenshot 2025-02-20 235044.png
+        altText: ''
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
     showThumbnail: true
