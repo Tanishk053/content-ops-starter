@@ -21,36 +21,7 @@ bottomSections:
           - pb-7
           - pr-7
     type: DividerSection
-  - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
+  - items: []
     variant: small-list
     colors: bg-light-fg-dark
     styles:
@@ -83,7 +54,3 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-```
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7i8yJeUrVcgeKnSrpAAMEU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-```
-
