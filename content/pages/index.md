@@ -291,7 +291,7 @@ sections:
     items:
       - type: FeaturedItem
         title: “TANISHK SHARMA”
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: ''
         text: >
           **
