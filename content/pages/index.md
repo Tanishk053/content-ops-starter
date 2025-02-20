@@ -223,17 +223,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: >-
-          /https://open.spotify.com/track/7i8yJeUrVcgeKnSrpAAMEU?si=0059095228a64a5b
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - title: Divider
     colors: bg-light-fg-dark
     styles:
