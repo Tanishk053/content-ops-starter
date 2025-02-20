@@ -67,7 +67,7 @@
                 {
                     "label": "Spotify",
                     "url": "/https://open.spotify.com/artist/5oFVboL4gRXvW0GTbNVFse?si=dTSPc6vCRgCflpLKs4O_Mg",
-                    "icon": "arrowRight",
+                    "icon": "play",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
