@@ -194,7 +194,7 @@ sections:
       - altText: Sanity logo
         type: ImageBlock
       - url: /images/Screenshot 2025-02-20 235044.png
-        altText: Rangle logo
+        altText: ''
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
