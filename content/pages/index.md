@@ -287,7 +287,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ABOUT ME
     items:
       - type: FeaturedItem
         title: “TANISHK SHARMA”
