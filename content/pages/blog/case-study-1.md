@@ -26,7 +26,7 @@ bottomSections:
       - type: FeaturedItem
         title: ''
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: suno isko
         text: >
           <iframe style="border-radius:12px"
           src="https\://open.spotify.com/embed/track/6Blw70MGsNvS3PIDpZqsDm?utm\_source=generator"
