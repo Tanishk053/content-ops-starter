@@ -30,7 +30,7 @@
                     "type": "Link",
                     "label": "YouTube",
                     "altText": "YouTube",
-                    "url": "/https://www.youtube.com/@MusicXTanishk",
+                    "url": "https://www.youtube.com/@MusicXTanishk",
                     "showIcon": true,
                     "icon": "youtube",
                     "iconPosition": "left",
