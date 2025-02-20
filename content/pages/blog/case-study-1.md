@@ -27,12 +27,15 @@ bottomSections:
         title: ''
         tagline: Feature 1
         subtitle: suno isko
-        text: >
-          <iframe style="border-radius:12px"
-          src="https\://open.spotify.com/embed/track/6Blw70MGsNvS3PIDpZqsDm?utm\_source=generator"
-          width="100%" height="352" frameBorder="0" allowfullscreen=""
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen;
-          picture-in-picture" loading="lazy"></iframe>
+        text: >+
+          <iframe width="560" height="315"
+          src="https\://www\.youtube.com/embed/8PrYq8jCjl0?si=axmwribLzRqZxwCH"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-01-30 004135.png
