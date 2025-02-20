@@ -72,14 +72,6 @@
                     "style": "secondary",
                     "type": "Link",
                     "showIcon": true
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
