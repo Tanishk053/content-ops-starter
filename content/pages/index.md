@@ -61,10 +61,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Experience music that speaks to the soul! ❤️✨ My latest song is out now—filled with emotions, melody, and heartfelt storytelling. Let the lyrics resonate, let the rhythm move you!\n\n\U0001F517 **Listen now:** \\[<https://youtu.be/zYrGMU_GQGk?feature=shared>]\n\n\n\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
