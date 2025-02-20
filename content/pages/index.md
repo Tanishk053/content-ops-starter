@@ -301,7 +301,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/WhatsApp Image 2025-02-21 at 00.42.22_a0b22a01.jpg
           altText: Jane Doe
           styles:
             self:
