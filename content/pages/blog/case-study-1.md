@@ -1,5 +1,5 @@
 ---
-title: I release my first song name "Lost In My Feelings"
+title: 'I release my first song name "Lost In My Feelings" '
 slug: case-study-1
 date: '2024-08-10'
 excerpt: \
@@ -21,6 +21,77 @@ bottomSections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: Feature 1
+        subtitle: suno isko
+        text: >
+          <iframe style="border-radius:12px"
+          src="https\://open.spotify.com/embed/track/6Blw70MGsNvS3PIDpZqsDm?utm\_source=generator"
+          width="100%" height="352" frameBorder="0" allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen;
+          picture-in-picture" loading="lazy"></iframe>
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2025-01-30 004135.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        tagline: Feature 2
+        subtitle: isko bhii
+        text: >+
+          <iframe style="border-radius:12px"
+          src="https\://open.spotify.com/embed/track/65wTAyjCgp1PVI6jcfq85m?utm\_source=generator"
+          width="100%" height="352" frameBorder="0" allowfullscreen=""
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen;
+          picture-in-picture" loading="lazy"></iframe>
+
+        image:
+          type: ImageBlock
+          url: /images/cat.jpeg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
 isFeatured: true
 colors: bg-light-fg-dark
 styles:

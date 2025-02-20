@@ -18,7 +18,7 @@
                 {
                     "type": "Link",
                     "label": "Instagram",
-                    "altText": "Instagram",
+                    "altText": "",
                     "url": "https://www.instagram.com/t4ni.xxhehu/?__pwa=1",
                     "showIcon": true,
                     "icon": "instagram",
