@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: MUSIC
 slug: careers
 sections:
   - title:
