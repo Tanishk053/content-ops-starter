@@ -18,6 +18,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        altText: 'Hii everyone i am Tanishk Sharma. '
     colors: bg-light-fg-dark
     styles:
       self:
