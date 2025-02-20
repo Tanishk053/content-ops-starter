@@ -290,7 +290,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: “Tanishk Sharma from ghaziabad .”
+      - title: “Tanishk Sharma"
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
