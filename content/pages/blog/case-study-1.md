@@ -54,6 +54,3 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-```
-```
-
