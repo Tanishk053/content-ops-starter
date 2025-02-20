@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: 06 OCTOBER FOREVER AND ALWAYS
         text: "<div style=\"text-align: left\">Experience music that speaks to the soul! ❤️✨</div>\n\nMy  song is filled with emotions, melody, and heartfelt storytelling\n\n\U0001F517 **Listen now**\n\n\\[<https://bit.ly/4i979te>]\n"
         actions: []
         elementId: null
