@@ -243,9 +243,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: |
-      Thoda sa muskurade tere haasne se ye duniya chalne lagti haii 
-
-      ye jhana jag magane lagta haii
+      Thoda sa muskurade tere haasne se ye duniya chalne lagti haii
     actions: []
     media:
       title: Title of the video
