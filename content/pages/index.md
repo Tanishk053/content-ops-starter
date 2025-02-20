@@ -61,7 +61,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: "Experience music that speaks to the soul! ❤️✨ My latest song is out now—filled with emotions, melody, and heartfelt storytelling. Let the lyrics resonate, let the rhythm move you!\n\n\U0001F517 **Listen now:** \\[<https://youtu.be/zYrGMU_GQGk?feature=shared>]\n\n\n\n"
+        text: "Experience music that speaks to the soul! ❤️✨ \n\nMy  song is filled with emotions, melody, and heartfelt storytelling\n\n Let the lyrics resonate, let the rhythm move you!\n\n\U0001F517 **Listen now**\n\n \\[<https://youtu.be/zYrGMU_GQGk?feature=shared>]\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
