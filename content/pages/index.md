@@ -127,7 +127,7 @@ sections:
     showExcerpt: false
     badge:
       type: Badge
-      label: FIRST SONG JUST LIKE EMOTION
+      label: ''
       color: text-primary
   - type: FeaturedItemsSection
     title:
