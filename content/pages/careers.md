@@ -26,7 +26,7 @@ sections:
           - pl-4
           - pb-40
           - pr-4
-        alignItems: flex-start
+        alignItems: flex-end
         flexDirection: col-reverse
         justifyContent: center
         margin:
