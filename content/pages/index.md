@@ -242,8 +242,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |
-      Thoda sa muskurade tere haasne se ye duniya chalne lagti haii
+    text: |+
+      **"Thoda sa muskurade, tere haasne se ye duniya chalne lagti hai..**
+
+       **jaise shuba ki pheli kiran andere ko roshni karne lagti haiii**☀️✨
+
     actions: []
     media:
       title: Title of the video
