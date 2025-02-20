@@ -10,15 +10,6 @@ sections:
     subtitle: ''
     text: "I am **Tanishk Sharma**, a storyteller who weaves emotions into melodies and poetry into rhythm. My music is not just sound—it’s a feeling, a journey, a reflection of life.\n\nEach song I sing whispers love, longing, and hope. My shayari breathes, connects, and speaks to the soul. I strive to create something timeless—something that lingers long after the music fades.\n\nTo those who listen—you are my inspiration. Music and poetry unite us through shared emotions. Let’s embrace the rhythm, live the words, and celebrate love—the language that binds us all.\n\n\U0001F3B6 **Let the music flow, let the poetry breathe.**\n\n\n\n"
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: ''
         altText: ''
         url: /
@@ -28,6 +19,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       url: /images/WhatsApp Image 2025-02-20 at 21.57.44_50a2dfa2.jpg
       altText: Unblock your team boost your time to production preview
