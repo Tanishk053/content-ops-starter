@@ -86,10 +86,17 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: WQAT
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          "WQAT" is a compelling storytelling song that intricately weaves a 
+
+          narrative through thoughtful lyrics and captivating melodies. 
+
+          Each verse reveals a new layer of the story,
+
+           inviting listeners to immerse themselves in its emotional depth
+
+          <https://bit.ly/3D18N1e>
+
         image:
           url: /images/417427459228573667.gif
           altText: Featured icon two
