@@ -21,22 +21,6 @@ bottomSections:
           - pb-7
           - pr-7
     type: DividerSection
-  - items: []
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mb-20
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
