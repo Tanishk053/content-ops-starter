@@ -11,7 +11,7 @@ featuredImage:
       borderRadius: large
   type: ImageBlock
 bottomSections:
-  - title: Divider
+  - title: ''
     colors: bg-light-fg-dark
     styles:
       self:
