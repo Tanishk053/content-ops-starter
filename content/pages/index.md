@@ -179,7 +179,7 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/417427459228573667.gif
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
