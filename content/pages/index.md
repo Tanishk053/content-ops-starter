@@ -56,7 +56,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          **
+          **\*\*
 
           I am 19 years old, and every word I write in my songs is a reflection
           of my own experiences—my joys , my dreams. Music and poetry are not
@@ -65,10 +65,10 @@ sections:
           emotions that words alone often fail to express. More than just
           reaching people, I want to explore the world through their stories,
           their emotions, and their realities. Every song I write is a piece of
-          me, and through it, I hope to understand life a little better."
+          me, and through it, I hope to understand life a little better."**
 
 
-          **
+          **\*\***
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2025-02-21 at 00.42.22_a0b22a01.jpg
