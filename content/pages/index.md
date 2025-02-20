@@ -293,10 +293,14 @@ sections:
         title: “TANISHK SHARMA”
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **
+
+          "I am 19 years old, and the words I write in my songs come from my own
+          experiences. Through my lyrics, I want to reach people, share my
+          thoughts, and understand the world better."
+
+          **
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2025-02-21 at 00.42.22_a0b22a01.jpg
