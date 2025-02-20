@@ -48,6 +48,48 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: CarouselSection
+    subtitle: ABOUT ME
+    items:
+      - type: FeaturedItem
+        title: “TANISHK SHARMA”
+        tagline: ''
+        subtitle: ''
+        text: >
+          **
+
+          "I am 19 years old, and the words I write in my songs come from my own
+          experiences. Through my lyrics, I want to reach people, share my
+          thoughts, and understand the world better."
+
+          **
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2025-02-21 at 00.42.22_a0b22a01.jpg
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: MY Music
@@ -165,48 +207,6 @@ sections:
           - pt-16
           - pl-16
           - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    subtitle: ABOUT ME
-    items:
-      - type: FeaturedItem
-        title: “TANISHK SHARMA”
-        tagline: ''
-        subtitle: ''
-        text: >
-          **
-
-          "I am 19 years old, and the words I write in my songs come from my own
-          experiences. Through my lyrics, I want to reach people, share my
-          thoughts, and understand the world better."
-
-          **
-        image:
-          type: ImageBlock
-          url: /images/WhatsApp Image 2025-02-21 at 00.42.22_a0b22a01.jpg
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
         justifyContent: center
       subtitle:
         textAlign: center
