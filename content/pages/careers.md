@@ -28,7 +28,7 @@ sections:
           - pr-4
         alignItems: flex-start
         flexDirection: col-reverse
-        justifyContent: flex-start
+        justifyContent: center
         margin:
           - mt-0
       text:
