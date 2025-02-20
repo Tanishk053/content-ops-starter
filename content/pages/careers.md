@@ -3,7 +3,7 @@ title: MUSIC
 slug: careers
 sections:
   - title:
-      text: TANISHK SHRAM
+      text: TANISHK SHARAM
       color: text-dark
       styles:
         self:
