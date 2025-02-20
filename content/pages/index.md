@@ -250,7 +250,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: 'https://youtu.be/CCFsSBB-kFI?feature=shared'
       autoplay: true
       loop: true
       muted: true
