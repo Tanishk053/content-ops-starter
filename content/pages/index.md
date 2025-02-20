@@ -292,7 +292,7 @@ sections:
       - type: FeaturedItem
         title: “TANISHK SHARMA”
         tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
+        subtitle: ''
         text: >
           **
 
