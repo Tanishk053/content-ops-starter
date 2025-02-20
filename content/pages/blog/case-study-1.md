@@ -69,7 +69,7 @@ bottomSections:
           allowfullscreen></iframe>
         image:
           type: ImageBlock
-          url: /images/cat.jpeg
+          url: /images/Screenshot 2025-02-06 122808.png
           altText: Business consulting
           elementId: ''
           styles:
