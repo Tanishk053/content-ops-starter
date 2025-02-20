@@ -111,10 +111,18 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: THODA SA MUSKURADE
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Presenting "Thoda Sa Muskurade," an enchanting and soulful track that
+          will tug at your heartstrings!
+
+           Performed, written, and composed by the talented Tanishk, 
+
+          this beautiful song brings together heartfelt lyrics and a soothing
+          melody. 
+
+
+          <http://bit.ly/4gRYUB1>
+
         image:
           url: /images/159033430583849314.gif
           altText: Featured icon three
