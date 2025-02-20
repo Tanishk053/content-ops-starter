@@ -124,7 +124,6 @@ sections:
           <http://bit.ly/4gRYUB1>
 
         image:
-          url: /images/159033430583849314.gif
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
