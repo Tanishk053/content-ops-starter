@@ -27,7 +27,7 @@ sections:
           - pb-40
           - pr-4
         alignItems: center
-        flexDirection: col-reverse
+        flexDirection: col
         justifyContent: center
         margin:
           - mt-0
