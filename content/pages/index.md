@@ -91,7 +91,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/417427459228573667.gif
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
