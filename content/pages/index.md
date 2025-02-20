@@ -224,48 +224,6 @@ sections:
         style: primary
         elementId: ''
     showExcerpt: false
-  - type: GenericSection
-    title:
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: ''
-    text: |
-      **"Thoda sa muskurade, tere haasne se ye duniya chalne lagti hai..**
-
-      **Jaise shuba ki Pheli kiran andere ko roshni karne lagti haiii**☀️✨**"**
-    actions: []
-    media:
-      title: Title of the video
-      url: 'https://youtu.be/CCFsSBB-kFI?feature=shared'
-      autoplay: true
-      loop: true
-      muted: false
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: CarouselSection
     subtitle: ABOUT ME
     items:
@@ -308,6 +266,48 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: ''
+    text: |
+      **"Thoda sa muskurade, tere haasne se ye duniya chalne lagti hai..**
+
+      **Jaise shuba ki Pheli kiran andere ko roshni karne lagti haiii**☀️✨**"**
+    actions: []
+    media:
+      title: Title of the video
+      url: 'https://youtu.be/CCFsSBB-kFI?feature=shared'
+      autoplay: true
+      loop: true
+      muted: false
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
