@@ -290,7 +290,7 @@ sections:
     subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: “”
+        title: “TANISHK SHARMA”
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
