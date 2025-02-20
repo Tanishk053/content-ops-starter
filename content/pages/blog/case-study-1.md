@@ -27,15 +27,17 @@ bottomSections:
         title: ''
         tagline: Feature 1
         subtitle: suno isko
-        text: >
-          <iframe style="border-radius:12px"
-          src="https\://open.spotify.com/embed/track/6Blw70MGsNvS3PIDpZqsDm?utm\_source=generator"
-          width="100%" height="352" frameBorder="0" allowfullscreen=""
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen;
-          picture-in-picture" loading="lazy"></iframe>
+        text: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/8PrYq8jCjl0?si=axmwribLzRqZxwCH"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
         image:
           type: ImageBlock
-          url: /images/Screenshot 2025-01-30 004135.png
+          url: /images/Screenshot 2025-02-06 122732.png
           altText: Featured item
           styles:
             self:
@@ -57,16 +59,17 @@ bottomSections:
         title: ''
         tagline: Feature 2
         subtitle: isko bhii
-        text: >+
-          <iframe style="border-radius:12px"
-          src="https\://open.spotify.com/embed/track/65wTAyjCgp1PVI6jcfq85m?utm\_source=generator"
-          width="100%" height="352" frameBorder="0" allowfullscreen=""
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen;
-          picture-in-picture" loading="lazy"></iframe>
-
+        text: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/BvO8rcmL8sM?si=FTE5e4eNgqfhlHvz"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
         image:
           type: ImageBlock
-          url: /images/cat.jpeg
+          url: /images/Screenshot 2025-02-06 122808.png
           altText: Business consulting
           elementId: ''
           styles:
