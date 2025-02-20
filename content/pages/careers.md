@@ -29,6 +29,8 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: center
+        margin:
+          - mt-12
       text:
         textAlign: center
       subtitle:
