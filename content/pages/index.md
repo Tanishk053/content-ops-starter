@@ -290,9 +290,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: “Tanishk Sharma from ghaziabad .”
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
