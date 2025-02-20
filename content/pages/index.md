@@ -213,7 +213,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
     actions: []
-    showExcerpt: true
+    showExcerpt: false
   - title: Divider
     colors: bg-light-fg-dark
     styles:
