@@ -1,5 +1,5 @@
 ---
-title: ''
+title: I
 slug: case-study-1
 date: '2024-08-10'
 excerpt: >-
