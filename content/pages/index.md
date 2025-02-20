@@ -134,7 +134,7 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-          url: /images/Screenshot 2025-01-30 004135.png
+          url: /images/159033430583849314.gif
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
