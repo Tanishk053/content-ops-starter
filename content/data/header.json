@@ -12,14 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Intrduction",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Video",
             "altText": "Careers page",
             "url": "/careers",
