@@ -125,6 +125,10 @@ sections:
         style: primary
         elementId: ''
     showExcerpt: false
+    badge:
+      type: Badge
+      label: FIRST SONG JUST LIKE EMOTION
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: MY Music
