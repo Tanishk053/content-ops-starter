@@ -109,7 +109,7 @@ sections:
         label: Get started
         altText: ''
         url: >-
-          /https://open.spotify.com/track/7i8yJeUrVcgeKnSrpAAMEU?si=70e55a084da446f9
+          https://open.spotify.com/track/7i8yJeUrVcgeKnSrpAAMEU?si=70e55a084da446f9
         showIcon: false
         icon: arrowRight
         iconPosition: right
