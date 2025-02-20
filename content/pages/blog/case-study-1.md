@@ -27,17 +27,12 @@ bottomSections:
         title: ''
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >+
-          ```
-
+        text: >
           <iframe style="border-radius:12px"
-          src="https://open.spotify.com/embed/track/6Blw70MGsNvS3PIDpZqsDm?utm_source=generator"
+          src="https\://open.spotify.com/embed/track/6Blw70MGsNvS3PIDpZqsDm?utm\_source=generator"
           width="100%" height="352" frameBorder="0" allowfullscreen=""
           allow="autoplay; clipboard-write; encrypted-media; fullscreen;
           picture-in-picture" loading="lazy"></iframe>
-
-          ```
-
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-01-30 004135.png
