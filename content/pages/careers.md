@@ -30,7 +30,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: center
         margin:
-          - mt-12
+          - mt-0
       text:
         textAlign: center
       subtitle:
