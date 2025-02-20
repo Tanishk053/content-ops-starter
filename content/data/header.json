@@ -53,6 +53,17 @@
                     "elementId": ""
                 },
                 {
+                    "type": "Link",
+                    "label": "Instagram",
+                    "altText": "Instagram",
+                    "url": "/https://www.instagram.com/t4ni.xxhehu/?__pwa=1",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",
