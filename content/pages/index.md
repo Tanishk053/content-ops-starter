@@ -58,9 +58,15 @@ sections:
         text: >
           **
 
-          "I am 19 years old, and the words I write in my songs come from my own
-          experiences. Through my lyrics, I want to reach people, share my
-          thoughts, and understand the world better."
+          I am 19 years old, and every word I write in my songs is a reflection
+          of my own experiences—my joys , my dreams. Music and poetry are not
+          just art for me; they are my way of connecting with the world. Through
+          my lyrics, I want to touch hearts, make people feel seen, and share
+          emotions that words alone often fail to express. More than just
+          reaching people, I want to explore the world through their stories,
+          their emotions, and their realities. Every song I write is a piece of
+          me, and through it, I hope to understand life a little better."
+
 
           **
         image:
