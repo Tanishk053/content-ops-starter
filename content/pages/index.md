@@ -237,12 +237,22 @@ sections:
         title: ''
         subtitle: 06 OCTOBER FOREVER AND ALWAYS
         text: >+
-          <div style="text-align: right">Experience music that speaks to the
+          <div style="text-align: left">Experience music that speaks to the
           soul! ❤️✨</div>
 
 
           My  song is filled with emotions, melody, and heartfelt storytelling
 
+
+
+
+          <iframe width="300" height="250"
+          src="https://www.youtube.com/embed/tJKw-gNxaW4?si=kwBdyOAdmfa-0Zca"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
 
 
         actions: []
