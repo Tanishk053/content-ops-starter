@@ -180,8 +180,6 @@ sections:
           listeners who appreciate a well-crafted narrative in music.
 
 
-
-
           <iframe width="300" height="230"
           src="https\://www\.youtube.com/embed/ebv5XbAsnYc?si=7r6Q0LWSlJ7\_VB5N"
           title="YouTube video player" frameborder="0" allow="accelerometer;
