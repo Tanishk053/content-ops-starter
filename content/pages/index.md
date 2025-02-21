@@ -128,7 +128,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 06 OCTOBER FOREVER AND ALWAYS
