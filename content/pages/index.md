@@ -169,7 +169,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: TUM ROOTHE
-        tagline: This is the tagline
+        tagline: Tanishk
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
