@@ -168,7 +168,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: TUM ROOTHE
+        title: LAST CALL
         tagline: Tanishk
         subtitle: ''
         text: >+
