@@ -73,7 +73,7 @@ bottomSections:
 
         image:
           type: ImageBlock
-          url: /images/Screenshot 2025-02-06 122808.png
+          url: /images/Screenshot 2025-02-06 123017.png
           altText: Business consulting
           elementId: ''
           styles:
