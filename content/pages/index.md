@@ -146,7 +146,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/752101206535053942.gif
           altText: Placeholder image
           styles:
             self:
