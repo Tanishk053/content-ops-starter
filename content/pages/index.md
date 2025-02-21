@@ -133,8 +133,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: 06 OCTOBER FOREVER AND ALWAYS
-        text: >-
-          <div style="text-align: left">Experience music that speaks to the
+        text: >+
+          <div style="text-align: right">Experience music that speaks to the
           soul! ❤️✨</div>
 
 
@@ -148,6 +148,7 @@ sections:
           picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen></iframe>
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
