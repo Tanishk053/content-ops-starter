@@ -172,7 +172,7 @@ sections:
         tagline: Tanishk
         subtitle: ''
         text: >+
-          <iframe width="560" height="315"
+          <iframe width="230" height="213"
           src="https://www.youtube.com/embed/ebv5XbAsnYc?si=d_2SKar_g6-3DG1n"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
