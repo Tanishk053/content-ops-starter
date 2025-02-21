@@ -132,7 +132,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 06 OCTOBER FOREVER AND ALWAYS
-        tagline: This is the tagline
+        tagline: Tanishk
         subtitle: ''
         text: >+
           <iframe width="300" height="230"
