@@ -27,14 +27,17 @@ bottomSections:
         title: ''
         tagline: Feature 1
         subtitle: suno isko
-        text: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/8PrYq8jCjl0?si=axmwribLzRqZxwCH"
+        text: >+
+          <iframe width="250" height="215
+
+
+          " src="https://www.youtube.com/embed/8PrYq8jCjl0?si=axmwribLzRqZxwCH"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
           picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen></iframe>
+
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-02-06 122732.png
