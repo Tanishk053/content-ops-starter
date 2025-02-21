@@ -218,7 +218,7 @@ sections:
           inviting listeners to immerse themselves in its emotional depth
 
 
-          <iframe width="300" height="230"
+          <iframe width="250" height="230"
           src="https://www.youtube.com/embed/eXoYBdWdDGg?si=vKxyuB0sllVhQIdv"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
