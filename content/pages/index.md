@@ -209,14 +209,24 @@ sections:
         title: WQAT
         tagline: Tanishk
         subtitle: ''
-        text: >
-          <iframe width="300" height="250"
-          src="https://www.youtube.com/embed/eXoYBdWdDGg?si=_YRt-0jZeCC1CHbm"
+        text: >+
+          "WQAT" is a compelling storytelling song that intricately weaves a
+
+          narrative through thoughtful lyrics and captivating melodies.
+
+          Each verse reveals a new layer of the story,
+
+          inviting listeners to immerse themselves in its emotional depth
+
+
+          <iframe width="300" height="230"
+          src="https://www.youtube.com/embed/eXoYBdWdDGg?si=vKxyuB0sllVhQIdv"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
           picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen></iframe>
+
         image:
           type: ImageBlock
           url: /images/159033430583849314.gif
