@@ -122,121 +122,139 @@ sections:
       color: text-primary
   - type: FeaturedItemsSection
     title:
-      text: MY Music
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
       type: TitleBlock
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: ''
-        subtitle: 06 OCTOBER FOREVER AND ALWAYS
-        text: "<div style=\"text-align: left\">Experience music that speaks to the soul! ❤️✨</div>\n\nMy  song is filled with emotions, melody, and heartfelt storytelling\n\n\U0001F517 **Listen now**\n\n\\[<https://bit.ly/4i979te>]\n"
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/752101206535053942.gif
-          styles:
-            self:
-              borderRadius: x-large
-      - title: ''
-        subtitle: WQAT
-        text: |+
-          "WQAT" is a compelling storytelling song that intricately weaves a 
-
-          narrative through thoughtful lyrics and captivating melodies. 
-
-          Each verse reveals a new layer of the story,
-
-           inviting listeners to immerse themselves in its emotional depth
-
-          <https://bit.ly/3D18N1e>
-
-        image:
-          url: /images/417427459228573667.gif
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: ''
-        subtitle: THODA SA MUSKURADE
-        text: >+
-          Presenting "Thoda Sa Muskurade," an enchanting and soulful track that
-          will tug at your heartstrings!
-
-           Performed, written, and composed by the talented Tanishk, 
-
-          this beautiful song brings together heartfelt lyrics and a soothing
-          melody. 
-
-
-          <http://bit.ly/4gRYUB1>
-
-        image:
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-          url: /images/159033430583849314.gif
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions: []
-    badge:
-      label: ''
+      text: MY OFFICIAL MUSIC
       color: text-primary
       styles:
         self:
           textAlign: center
-      type: Badge
-    elementId: ''
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: 06 OCTOBER FOREVER AND ALWAYS
+        tagline: Tanishk
+        subtitle: ''
+        text: >+
+          Experience music that speaks to the soul! ❤️✨
+
+
+          My  song is filled with emotions, melody, and heartfelt storytelling
+
+
+          <iframe width="300" height="230"
+          src="https://www.youtube.com/embed/tJKw-gNxaW4?si=kwBdyOAdmfa-0Zca"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+        image:
+          type: ImageBlock
+          url: /images/752101206535053942.gif
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: LAST CALL
+        tagline: Tanishk
+        subtitle: ''
+        text: >+
+          "Last call" is a storytelling song that intricately weaves a narrative
+          through thoughtful lyrics . Each verse reveals a new layer of the
+          story, inviting listeners to immerse themselves in its emotional
+          depth. 
+
+
+
+          <iframe width="300" height="213"
+          src="https://www.youtube.com/embed/ebv5XbAsnYc?si=d_2SKar_g6-3DG1n"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+        image:
+          type: ImageBlock
+          url: /images/417427459228573667.gif
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: WQAT
+        tagline: Tanishk
+        subtitle: ''
+        text: >+
+          "WQAT" is a compelling storytelling song that intricately weaves a
+
+          narrative through thoughtful lyrics and captivating melodies.
+
+          Each verse reveals a new layer of the story,
+
+          inviting listeners to immerse themselves in its emotional depth
+
+
+          <iframe width="300" height="230"
+          src="https://www.youtube.com/embed/eXoYBdWdDGg?si=vKxyuB0sllVhQIdv"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+
+        image:
+          type: ImageBlock
+          url: /images/159033430583849314.gif
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-8
+          - pb-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
