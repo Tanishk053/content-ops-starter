@@ -134,8 +134,15 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/tJKw-gNxaW4?si=kwBdyOAdmfa-0Zca"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>Follow the tutorial to build your first
+          Netlify site.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
