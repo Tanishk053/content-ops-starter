@@ -208,7 +208,7 @@ sections:
       - type: FeaturedItem
         title: WQAT
         tagline: Tanishk
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
