@@ -135,10 +135,10 @@ sections:
         tagline: Tanishk
         subtitle: ''
         text: >+
+          Experience music that speaks to the soul! ❤️✨
 
 
-
-
+          My  song is filled with emotions, melody, and heartfelt storytelling
 
 
           <iframe width="300" height="230"
