@@ -123,7 +123,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: MY OFFICIAL MUSIC
       color: text-primary
       styles:
         self:
