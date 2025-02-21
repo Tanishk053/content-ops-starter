@@ -141,7 +141,7 @@ sections:
           My  song is filled with emotions, melody, and heartfelt storytelling
 
 
-          <iframe width="300" height="230"
+          <iframe width="250" height="230"
           src="https://www.youtube.com/embed/tJKw-gNxaW4?si=kwBdyOAdmfa-0Zca"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
@@ -175,11 +175,10 @@ sections:
           "Last call" is a storytelling song that intricately weaves a narrative
           through thoughtful lyrics . Each verse reveals a new layer of the
           story, inviting listeners to immerse themselves in its emotional
-          depth. 
+          depth.
 
 
-
-          <iframe width="300" height="213"
+          <iframe width="250" height="213"
           src="https://www.youtube.com/embed/ebv5XbAsnYc?si=d_2SKar_g6-3DG1n"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
@@ -219,7 +218,7 @@ sections:
           inviting listeners to immerse themselves in its emotional depth
 
 
-          <iframe width="300" height="230"
+          <iframe width="250" height="230"
           src="https://www.youtube.com/embed/eXoYBdWdDGg?si=vKxyuB0sllVhQIdv"
           title="YouTube video player" frameborder="0" allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope;
