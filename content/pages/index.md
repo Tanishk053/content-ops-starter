@@ -209,8 +209,14 @@ sections:
         title: WQAT
         tagline: Tanishk
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >-
+          <iframe width="300" height="250"
+          src="https://www.youtube.com/embed/eXoYBdWdDGg?si=_YRt-0jZeCC1CHbm"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
         image:
           type: ImageBlock
           url: /images/159033430583849314.gif
