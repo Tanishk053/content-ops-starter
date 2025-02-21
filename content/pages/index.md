@@ -209,7 +209,7 @@ sections:
         title: WQAT
         tagline: Tanishk
         subtitle: ''
-        text: >-
+        text: >
           <iframe width="300" height="250"
           src="https://www.youtube.com/embed/eXoYBdWdDGg?si=_YRt-0jZeCC1CHbm"
           title="YouTube video player" frameborder="0" allow="accelerometer;
