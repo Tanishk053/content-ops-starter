@@ -133,7 +133,7 @@ sections:
       - type: FeaturedItem
         title: 06 OCTOBER FOREVER AND ALWAYS
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           <iframe width="300" height="230"
           src="https://www.youtube.com/embed/tJKw-gNxaW4?si=kwBdyOAdmfa-0Zca"
